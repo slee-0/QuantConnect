@@ -1,3 +1,3 @@
 # algorithmic_trading
 
-Notebooks for computation and algorithm testing via QuantConnect platform
+Notebooks for computation and algorithm testing using the QuantConnect platform
