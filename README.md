@@ -1,3 +1,1 @@
-# algorithmic_trading
-
-Notebooks for computation and algorithm testing using the QuantConnect platform
+Python code used for algorithm testing and computation using the QuantConnect platform
